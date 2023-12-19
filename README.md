@@ -12,7 +12,7 @@ This project is a Java-based application that allows users to manage their video
 The project serves as a hands-on exploration of Java GUI development with Swing, reinforcing core Java concepts such as object-oriented programming, event handling, and user interface design. It provides a practical understanding of building interactive applications and managing data efficiently.
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/YourUsername/GameLibrary.git`
+1. Clone the repository: `git clone https://github.com/Atharva1479/Game-Library-GUI.git`
 2. Open the project in your preferred Java development environment (IDE).
 3. Run the `GameLibraryApp.java` file to launch the application.
 
